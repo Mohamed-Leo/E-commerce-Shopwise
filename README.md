@@ -7,7 +7,6 @@
 - **Product Catalog**: Browse a wide range of products with detailed information and images.
 - **Shopping Cart**: Add, remove, and update product quantities in the cart with real-time updates.
 - **Responsive Design**: Optimized for both desktop and mobile devices for a consistent user experience.
-- **User Authentication**: Secure login and registration system to manage user accounts.
 - **Checkout Process**: Smooth checkout flow with order summary and payment integration.
 - **Search and Filter**: Easily find products using search and filter options.
 
